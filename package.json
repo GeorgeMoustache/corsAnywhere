@@ -1,0 +1,19 @@
+{
+  "name": "corsanywhere",
+  "version": "1.0.0",
+  "description": "proxy server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeMoustache/corsAnywhere.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeMoustache/corsAnywhere/issues"
+  },
+  "homepage": "https://github.com/GeorgeMoustache/corsAnywhere#readme"
+}
